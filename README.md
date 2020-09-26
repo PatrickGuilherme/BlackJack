@@ -1,2 +1,6 @@
 # BlackJack
-Projeto de faculdade com foco na criação do jogo de cartas blackjack (21) aplicando princípios de estrutura de dados
+Jogo de cartas blackjack (21) utilizando estrutura de dados desenvolvida inteiramente em C.
+
+# Notas
+
+> Necessário utilizar o DEV C++ para executar a aplicação
